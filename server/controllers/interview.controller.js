@@ -1,6 +1,6 @@
 import fs from "fs";
 // import * as pdfjsLib from 'pdfjs-dist/legacy/build/pdf.js';
-import pdf from 'pdf-parse';
+// import pdf from 'pdf-parse';
 import { askAi } from "../services/openRouter.services.js";
 import User from "../models/user.model.js";
 import Interview from "../models/interview.model.js";
