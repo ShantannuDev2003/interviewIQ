@@ -12,7 +12,7 @@ dotenv.config();
 const app=express();
 // console.log(process.env.MONGODB_URL)
 app.use(cors({
-        origin:"http://localhost:5173",
+        origin:"https://interviewiq-client-c870.onrender.com",
       credentials:true
 }
      
